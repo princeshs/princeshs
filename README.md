@@ -95,12 +95,12 @@ I enjoy solving **theoretically grounded problems** and transforming them into *
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Kumar-iitp&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Kumar-iitp&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=princeshs&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeshs&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Kumar-iitp&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeshs&theme=tokyonight"/>
 </p>
 
 ---
