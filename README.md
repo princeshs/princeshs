@@ -72,14 +72,7 @@ I enjoy solving **theoretically grounded problems** and transforming them into *
 
 - 🥇 **State Rank 1**, Bihar Mathematics Olympiad (BMO 2021)
 - 📘 **Qualified IOQJS’21**, ranked among top 10% students (State-wise)
-- 🧮 **Appeared for INMO 2020** (Indian National Mathematics Olympiad)
-
----
-
-## 📜 Certifications
-
-- **Machine Learning Specialization** — Stanford Online  
-- **Deep Learning Specialization** — DeepLearning.AI  
+- 🧮 **Appeared for INMO 2020**
 
 ---
 
@@ -105,21 +98,14 @@ I enjoy solving **theoretically grounded problems** and transforming them into *
 
 ---
 
-## 🎯 Beyond Tech
-
-- 🏓 Sports: Table Tennis, Football, Basketball  
-- 📚 Reading: Philosophy, Research-based & Non-fiction books  
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/prince-kumar-iitp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Prince%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Prince-Kumar-iitp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Prince--Kumar--iitp-181717?style=flat&logo=github&logoColor=white"/>
+  <a href="https://github.com/princeshs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-princeshs-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:princevippassana@gmail.com">
     <img src="https://img.shields.io/badge/Email-princevippassana%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
