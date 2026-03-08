@@ -91,8 +91,9 @@ I enjoy solving **theoretically grounded problems** and transforming them into *
   <img src="https://github-readme-stats.vercel.app/api?username=princeshs&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeshs&layout=compact&theme=tokyonight" height="170"/>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princeshs&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=princeshs.princeshs&left_color=gray&right_color=blue&left_text=Visitors"/>
 </p>
 
 <!-- <p align="center">
