@@ -8,6 +8,10 @@ Indian Institute of Technology, Patna 🇮🇳
 </h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princeshs&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Undergraduate+@+IIT+Patna;Machine+Learning+%7C+Data+Science+%7C+Algorithms;Competitive+Programming+%7C+Applied+Mathematics;Always+Learning%2C+Always+Building">
 </p>
 
