@@ -78,7 +78,7 @@ I enjoy solving **theoretically grounded problems** and transforming them into *
 
 ## 🏛️ Positions of Responsibility
 
-- **Manager**, Entrepreneurship Cell, IIT Patna *(Apr 2025 – Present)*
+- **Manager**, Entrepreneurship Cell, IIT Patna *(Apr 2025 – Apr 2026)*
 - **Executive**, Entrepreneurship Cell, IIT Patna *(Jan 2025 – Apr 2025)*
 - **Member**, Organising Committee, Inter-IIT Cultural Meet 7.0 *(Dec 2024)*
 - **Core Team Member**, Syahi (Literary Club), IIT Patna *(Mar 2025 – Nov 2025)*
