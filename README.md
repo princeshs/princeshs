@@ -18,7 +18,7 @@ Indian Institute of Technology, Patna 🇮🇳
 I am a **B.Tech undergraduate in Artificial Intelligence & Data Science at IIT Patna** with a strong foundation in **algorithms, machine learning, and applied mathematics**.  
 I enjoy solving **theoretically grounded problems** and transforming them into **practical, efficient solutions**.
 
-- 🎓 **IIT Patna (2024 – 2028)** | CGPA: **7.38**
+- 🎓 **IIT Patna (2024 – 2028)** | CGPA: **7.62**
 - 💡 Interests: **Machine Learning, Data Science, Artificial Intelligence**
 - 🧠 Strong focus on **problem-solving & mathematical reasoning**
 - 🚀 Continuously improving skills in **ML, DSA, and systems**
